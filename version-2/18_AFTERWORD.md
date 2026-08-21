@@ -72,7 +72,7 @@ If you understand that a belief gets filed early and then stops being examined, 
 
 You do not change a society by convincing the adults. You change it by reaching the children, and then waiting.
 
-Every institution that has lasted knows this and says it openly. Teach a child and you have set what that person carries in their chest for sixty years. Church leaders have said it from pulpits in exactly those words. Fred Rogers spent his working life on it and was completely explicit about why: he was not making a programme for children because children are easy. He was making it for children because that is the only point in a human life when the wiring is still soft enough for it to matter.
+Every institution that has lasted knows this and says it openly. Teach a child and you have set what that person carries in their chest for sixty years. Church leaders have said it from pulpits in exactly those words. Fred Rogers spent his working life on it and was completely explicit about why: he was not making a program for children because children are easy. He was making it for children because that is the only point in a human life when the wiring is still soft enough for it to matter.
 
 > The people who wanted to change the world understood this. The people who wanted to keep it exactly as it is understood it too, and got there first.
 
@@ -158,7 +158,7 @@ I acquired new favorite people. That sounds small and it is not. I had teachers 
 
 Some of what landed hardest was about time.
 
-Volcanic ash settles and locks the magnetic orientation of the moment into the rock, and read enough layers and you can watch the poles wander back and forth across the history of the planet. Light from distant galaxies arrives stretched toward red, and the stretch tells you how long it has been travelling and what has been happening to the space in between.
+Volcanic ash settles and locks the magnetic orientation of the moment into the rock, and read enough layers and you can watch the poles wander back and forth across the history of the planet. Light from distant galaxies arrives stretched toward red, and the stretch tells you how long it has been traveling and what has been happening to the space in between.
 
 In Denver, a museum drilled a bore hole for a parking structure and someone had the sense to take a core sample on the way down. Seven hundred and fifty feet below a parking lot they found dinosaur material and evidence of tropical vegetation. Not in a canyon or a dig site. Under the parking lot. That whole world is directly beneath an ordinary afternoon in a city, and nobody standing on the surface has any sense of it at all.
 
