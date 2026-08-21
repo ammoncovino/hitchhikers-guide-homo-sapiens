@@ -16,7 +16,7 @@ Counts vary, and the variation is not evasion, it is definitional. A base may me
 
 So the honest claim is not a number. It is that no other contemporary state operates anything comparable, by any of the definitions, and that the disagreement is only ever about how to count a thing nobody disputes the existence of.
 
-Apply the Flip: what does a system that claims to protect actually do when the protected nation acts against the protector’s interests? Ask Iraq. Under the United Nations Oil-for-Food Programme it shifted the programme’s accounting from dollars to euros in November 2000. The invasion began in March 2003, under claims about weapons of mass destruction that were never found. [13]
+Apply the Flip: what does a system that claims to protect actually do when the protected nation acts against the protector’s interests? Ask Iraq. Under the United Nations Oil-for-Food Programme it shifted the program’s accounting from dollars to euros in November 2000. The invasion began in March 2003, under claims about weapons of mass destruction that were never found. [13]
 
 The sequence is real. The causal link is disputed. Both things can be true, and the case against that invasion never needed the currency theory to stand up.
 
@@ -24,7 +24,7 @@ However you count them, each one is a room. And the room is always teaching.
 
 ### Rome, and the Word for What Rome Did
 
-Rome did not describe itself as an occupier. It described itself as the provider of order. Pax Romana, the Roman peace, was not marketing invented afterward by historians. It was the operating claim, made at the time, in official language: we are not taking, we are stabilising, and what you are paying for is the stability.
+Rome did not describe itself as an occupier. It described itself as the provider of order. Pax Romana, the Roman peace, was not marketing invented afterward by historians. It was the operating claim, made at the time, in official language: we are not taking, we are stabilizing, and what you are paying for is the stability.
 
 The phrase is worth keeping in the original, because it survived. Pax Romana is Latin for the Roman peace, and later empires reached for the same construction deliberately. Pax Britannica for the century Britain ran the sea lanes. Pax Americana for the arrangement since 1945. In every case the word for what is being provided is peace, the word for who is providing it is the name of the provider, and the two are set side by side so that they cannot be separated by anyone living underneath them.
 
