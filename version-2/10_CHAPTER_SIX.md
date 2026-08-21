@@ -24,7 +24,7 @@ That structure installs three ideas.
 
 The first is total diagnosis. The corruption is not local or repairable. It has reached everything. Once the diagnosis goes total, ordinary objections lose their footing. You do not negotiate with a flood, and you do not ask whether something smaller might have worked. The announced scale of the threat makes the scale of the remedy look inevitable.
 
-The second is exclusive warning. Noah is not simply more righteous than his neighbours. He has information they do not have and instructions they never received. The line between survival and destruction is no longer only conduct. It is access to the correct map before the event begins.
+The second is exclusive warning. Noah is not simply more righteous than his neighbors. He has information they do not have and instructions they never received. The line between survival and destruction is no longer only conduct. It is access to the correct map before the event begins.
 
 The third is survival as proof. When the water recedes, the survivors have not merely stayed alive. Their survival appears to certify that the warning was true, the selection was just, and the instructions were right. The remnant inherits the territory and the authority to explain what happened to it.
 
@@ -40,7 +40,7 @@ The water always leaves. The authority the ark produces can stay.
 
 ### Joseph, The Interpreter Who Owns the Channel
 
-Joseph begins with dreams no one around him can use. His brothers hear vanity. His father hears something worth keeping. In Egypt the same gift turns political: Pharaoh dreams of abundance and famine, and Joseph does more than read the images. He converts them into policy. Seven years of surplus, collected. Storage, centralised. Distribution, administered when the scarcity arrives.
+Joseph begins with dreams no one around him can use. His brothers hear vanity. His father hears something worth keeping. In Egypt the same gift turns political: Pharaoh dreams of abundance and famine, and Joseph does more than read the images. He converts them into policy. Seven years of surplus, collected. Storage, centralized. Distribution, administered when the scarcity arrives.
 
 The progression is exact. Private sign, then accepted reading, then public forecast, then institutional office, then control of the survival channel.
 
@@ -48,15 +48,15 @@ The dream establishes foresight. The famine appears to confirm it. But the durab
 
 Joseph does save lives, and the text is plain about that. Grain was stored because someone saw the crisis coming, and people who would have starved are fed. The same chapters describe an extraordinary transfer of power. The people’s money runs out, and they trade livestock for grain. The livestock goes, and they trade land. The land passes to Pharaoh, and the population enters a new relationship with the state.
 
-The rescue and the centralisation are not rival readings. They happen in the same story.
+The rescue and the centralization are not rival readings. They happen in the same story.
 
 That is what makes Joseph more useful than a hero or a villain. He shows how a real emergency can justify a real rescue and still rewrite who owns everything. No fake famine is needed. No wicked administrator is needed. Scarcity supplies the leverage by itself.
 
 The Scripture Engine files the outcome under providence. Joseph’s suffering led him to Egypt. His gift set him before Pharaoh. His reading saved the country. His family was preserved. Every step reads as evidence the arrangement was guided.
 
-Now run the Flip, and stand where the population stands. The man who correctly called the shortage now controls the reserve. The office that controls the reserve names the terms of access. Each round of desperation moves another layer of independence toward the center. By the end, the channel has not only handed out grain. It has reorganised the territory the grain moves through.
+Now run the Flip, and stand where the population stands. The man who correctly called the shortage now controls the reserve. The office that controls the reserve names the terms of access. Each round of desperation moves another layer of independence toward the center. By the end, the channel has not only handed out grain. It has reorganized the territory the grain moves through.
 
-This needs no coat of many colours and no supernatural dream. It shows up wherever prediction and administration become the same office. The forecast can be accurate, the emergency real, the intervention genuinely lifesaving, and the institution that runs it can still walk away holding more than it started with.
+This needs no coat of many colors and no supernatural dream. It shows up wherever prediction and administration become the same office. The forecast can be accurate, the emergency real, the intervention genuinely lifesaving, and the institution that runs it can still walk away holding more than it started with.
 
 > Whoever sees the shortage first can end up owning not just the stored resource but everyone forced to pass through the channel to reach it.
 
@@ -112,23 +112,23 @@ That is as far as this chapter goes with it. The full reading of the red words a
 
 The words attributed to Jesus keep reversing the direction authority normally runs. The first become last. The meek inherit. The person with no standing becomes the moral center of the story. The kingdom is not locked in a throne or a temple or a priestly office; it is within you, or among you, depending on the translation. The Sabbath is made for the human being, not the human being for the Sabbath.
 
-The hierarchy is not merely criticised. Its moral coordinates are turned upside down. That is the Alpha.
+The hierarchy is not merely criticized. Its moral coordinates are turned upside down. That is the Alpha.
 
-The Omega is one of the largest and most durable institutional systems in human history: churches, priesthoods, creeds, courts, property, authorised interpretations, ranks, rites, governments, and claims of succession running two thousand years.
+The Omega is one of the largest and most durable institutional systems in human history: churches, priesthoods, creeds, courts, property, authorized interpretations, ranks, rites, governments, and claims of succession running two thousand years.
 
 The question is not whether everything built in his name betrayed him, because that would be too easy. Institutions preserved the texts, carried the teachings, fed people, built hospitals, made art, and moved the story through centuries where it could otherwise have vanished. Those same institutions also acquired powers the teachings themselves place under open suspicion. Both things are true at once, and that is the Scripture Engine at full extension.
 
-Watch the conversion run. A living teacher confronts authorised interpretation. The teacher dies. The teaching becomes memory. Memory becomes text. Text must be collected. Collection forces decisions about inclusion. A canon requires interpreters. Interpreters become offices. And the offices claim custody of the very teacher whose challenge to religious offices made him dangerous in the first place.
+Watch the conversion run. A living teacher confronts authorized interpretation. The teacher dies. The teaching becomes memory. Memory becomes text. Text must be collected. Collection forces decisions about inclusion. A canon requires interpreters. Interpreters become offices. And the offices claim custody of the very teacher whose challenge to religious offices made him dangerous in the first place.
 
-No conspiracy is required. Each step answers a real problem. How do you preserve the teaching? How do you tell an authentic account from an invented one? How do scattered communities settle a disagreement? How do you keep continuity once the witnesses die? Every solution creates a new seat from which someone can say: this is the authorised version.
+No conspiracy is required. Each step answers a real problem. How do you preserve the teaching? How do you tell an authentic account from an invented one? How do scattered communities settle a disagreement? How do you keep continuity once the witnesses die? Every solution creates a new seat from which someone can say: this is the authorized version.
 
-That is the hinge. The institution never has to reject the founder. It gains power by presenting itself as the only reliable road back to him. The story authorises the institution; the institution selects and protects the story; the protected story then appears to authorise the institution that selected it. The loop can run for centuries.
+That is the hinge. The institution never has to reject the founder. It gains power by presenting itself as the only reliable road back to him. The story authorizes the institution; the institution selects and protects the story; the protected story then appears to authorize the institution that selected it. The loop can run for centuries.
 
 Portable sayings make it easier. Render unto Caesar. The poor you will always have with you. No one comes to the Father except through me. Cut loose from setting, speaker, and audience, a sentence becomes a tool light enough to carry anywhere. One institution uses it to resist power. Another uses the same tradition to bless it. The words hold still; the direction changes with the interpreter.
 
 None of this is unique to Christianity. Every founder faces it once the movement outlives them. The challenge to the existing order becomes a tradition, the tradition grows custodians, the custodians become an order of their own, until defending the institution and defending the founder are treated as the same act. They are not always the same act. That is the gap this chapter is asking you to hold open.
 
-> A message that removes the gatekeeper can, once canonised, become the foundation of a new gate.
+> A message that removes the gatekeeper can, once canonized, become the foundation of a new gate.
 
 The man is gone. The words remain. The whole struggle is over who gets to stand between those words and everyone who comes after.
 
