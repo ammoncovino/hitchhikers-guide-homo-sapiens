@@ -54,3 +54,5 @@ Every checkable claim carries a numbered note. The notes state whether a claim r
 - Word versions of every chapter are kept alongside these for layout and printing.
 - Standing rule: lists take commas, not periods. No em dashes anywhere.
 - Standing rule: no global find-and-replace across the whole book.
+- Standing rule: American English spelling throughout, both books. Official proper nouns keep their own spelling (Oil-for-Food Programme).
+- Standing rule: the no-em-dash rule is pair-wide. Book Two follows it as of version 4.2.

@@ -33,3 +33,5 @@ Every checkable claim in this book carries a numbered note (see [`version-2/19_N
 - Version 1 is never modified. It is the historical record.
 - Standing rule: lists take commas, not periods. No em dashes anywhere.
 - Standing rule: no global find-and-replace across the whole book.
+- Standing rule: American English spelling throughout, both books. Official proper nouns keep their own spelling (Oil-for-Food Programme).
+- Standing rule: the no-em-dash rule is pair-wide. Book Two follows it as of version 4.2.
