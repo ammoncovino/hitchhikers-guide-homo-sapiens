@@ -138,7 +138,7 @@ Some of that is chemistry rather than philosophy, and it belongs in the account.
 
 And it is worth saying that this is not unusual, only unusually visible in my case. Every substance a person takes carries an ego of its own. The version of someone who has been drinking is not the version who has not, the version on cocaine is a different arrangement again, and so is the one on cannabis, on opiates, on stimulants, on a mood medication prescribed by a doctor with the best intentions in the world.
 
-We already know this and admit it constantly without noticing what we are admitting. When somebody says he was drunk when he did it, they are not making an excuse so much as reporting a fact about which configuration was at the controls. The whole of that defence rests on everyone quietly agreeing that a person can be run by something other than the person, which is the argument of this entire book stated by people who would deny it if you put it to them directly.
+We already know this and admit it constantly without noticing what we are admitting. When somebody says he was drunk when he did it, they are not making an excuse so much as reporting a fact about which configuration was at the controls. The whole of that defense rests on everyone quietly agreeing that a person can be run by something other than the person, which is the argument of this entire book stated by people who would deny it if you put it to them directly.
 
 ### And the Ego Does Not Only Take
 
