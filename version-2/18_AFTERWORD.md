@@ -152,7 +152,7 @@ Once you have seen that comparison you cannot un-see it.
 
 Then I went and learned everything I could, and that became the job.
 
-Chemistry. Quantum physics. Biology. Evolution. Geology. Astrophysics. I used AI as a tutor that never got tired of the same question asked four different ways, and I watched everything Veritasium put out, and then everything after that. It happened mostly in a garage, alone, listening, one thing after the next with no stopping point.
+Chemistry, quantum physics, biology, evolution, geology, astrophysics. I read and asked and read again, and I watched everything Veritasium put out and then everything after that. It happened mostly in a garage, alone, listening, one thing after the next with no stopping point.
 
 I acquired new favorite people. That sounds small and it is not. I had teachers and figures I had looked up to my whole life, and I had to replace them, and I did, with physicists and biologists and philosophers who were describing things that could be checked. It gave me exactly the thing religion had been giving me, and it gave it for reasons that survive inspection.
 

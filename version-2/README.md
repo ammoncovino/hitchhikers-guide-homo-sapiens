@@ -17,40 +17,36 @@ This one works from the outside in, through the systems built around a person: l
 
 ## Contents
 
-| File | Section | Words |
-|---|---|---|
-| `01_00_FRONT_MATTER.md` | Title page, copyright, inside leaf, contents | 694 |
-| `02_PREFACE.md` | Preface | 1,162 |
-| `03_INTRODUCTION.md` | Introduction | 433 |
-| `04_PROLOGUE.md` | The Sign | 4,140 |
-| `05_CHAPTER_ONE.md` | The Inner Map | 3,888 |
-| `06_CHAPTER_TWO.md` | Arcs, Bolts, and the Flip | 1,353 |
-| `07_CHAPTER_THREE.md` | Words Are Spells | 2,502 |
-| `08_CHAPTER_FOUR.md` | Your Personal Position | 1,787 |
-| `09_CHAPTER_FIVE.md` | The Room Writes the Mind | 1,078 |
-| `10_CHAPTER_SIX.md` | The Scripture Engine | 3,039 |
-| `11_CHAPTER_SEVEN.md` | The Prophecy Engine | 2,050 |
-| `12_CHAPTER_EIGHT.md` | The Policing Empire | 2,701 |
-| `13_CHAPTER_NINE.md` | The Parasite and the Host | 2,758 |
-| `14_CHAPTER_TEN.md` | Money Is a Container | 1,181 |
-| `15_CHAPTER_ELEVEN.md` | Erase All Debt | 1,741 |
-| `16_CHAPTER_TWELVE.md` | The Stories They Told Us | 3,172 |
-| `17_CHAPTER_THIRTEEN.md` | The Weld | 947 |
-| `18_AFTERWORD.md` | How This Book Came to Be Written | 3,583 |
-| `19_NOTES.md` | Sources, 25 numbered notes | 2,185 |
-| `20_INDEX.md` | Index and back cover | 861 |
+| File | Section |
+|---|---|
+| `01_00_FRONT_MATTER.md` | Title page, copyright, inside leaf, contents |
+| `02_PREFACE.md` | Preface |
+| `03_INTRODUCTION.md` | Introduction |
+| `04_PROLOGUE.md` | The Sign |
+| `05_CHAPTER_ONE.md` | The Inner Map |
+| `06_CHAPTER_TWO.md` | Arcs, Bolts, and the Flip |
+| `07_CHAPTER_THREE.md` | Words Are Spells |
+| `08_CHAPTER_FOUR.md` | Your Personal Position |
+| `09_CHAPTER_FIVE.md` | The Room Writes the Mind |
+| `10_CHAPTER_SIX.md` | The Scripture Engine |
+| `11_CHAPTER_SEVEN.md` | The Prophecy Engine |
+| `12_CHAPTER_EIGHT.md` | The Policing Empire |
+| `13_CHAPTER_NINE.md` | The Parasite and the Host |
+| `14_CHAPTER_TEN.md` | Money Is a Container |
+| `15_CHAPTER_ELEVEN.md` | Erase All Debt |
+| `16_CHAPTER_TWELVE.md` | The Stories They Told Us |
+| `17_CHAPTER_THIRTEEN.md` | The Weld |
+| `18_AFTERWORD.md` | How This Book Came to Be Written |
+| `19_NOTES.md` | Sources, 25 numbered notes |
+| `20_INDEX.md` | Index and back cover |
 
-**Total: 41,255 words.**
+Approximately 41,000 words.
 
 ---
 
 ## On sources
 
-Every checkable claim in this book carries a numbered note. The notes state whether a claim rests on **established evidence**, on the **author's own synthesis**, or on a position that remains **genuinely disputed**. Where an error was found during writing, the correction appears in the text rather than being quietly removed.
-
-## On how this was made
-
-The thinking, the arguments and the corrections are the author's. The organizing, the proofing and much of the fact-checking were done with assistance.
+Every checkable claim carries a numbered note. The notes state whether a claim rests on **established evidence**, on the **author's own synthesis**, or on a position that remains **genuinely disputed**. Where an error was found during writing, the correction appears in the text rather than being quietly removed.
 
 ## Working notes
 
