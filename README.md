@@ -18,7 +18,7 @@ This one works from the outside in, through the systems built around a person: l
 
 | Folder | What it is | Status |
 |---|---|---|
-| [`version-2/`](./version-2/) | **Current manuscript.** 41,255 words across 21 chaptered files, each section in its own Markdown file with numbered source notes. | Active — all editing happens here |
+| [`version-2/`](./version-2/) | **Current manuscript.** 41470 words across 21 chaptered files, each section in its own Markdown file with numbered source notes. | Active — all editing happens here |
 | [`version-1/`](./version-1/) | Original manuscript as first published to this repo (single Word document plus Markdown copy, with its original README). | Archived — preserved unchanged for the record |
 
 Start reading at [`version-2/01_00_FRONT_MATTER.md`](./version-2/01_00_FRONT_MATTER.md), or see the full table of contents in [`version-2/README.md`](./version-2/README.md).
