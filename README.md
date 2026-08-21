@@ -1,44 +1,35 @@
 # The Hitchhiker's Guide to the Homo Sapiens
 
-*The Operating Manual Nobody Gave You*
+*The Operating Manual*
 
 By **Ammon M. Covino**
 
----
-
-## About
-
-A structural field guide to the inner and outer systems that shape human behavior — the lens, the system, the machine, the mirror, and the exit.
-
-## Contents
-
-**Part One — The Lens**
-- Ch. 1 The Inner Map — Why the Real War Is Inside You
-- Ch. 2 Arcs, Bolts, and the Flip — Three Tools for Reading Any Room
-- Ch. 3 Words Are Spells — How Language Becomes Control
-
-**Part Two — The System**
-- Ch. 4 Your Personal Position — Why I Can See This From Where I Stand
-- Ch. 5 The Room Writes the Mind — Ritual, Symbol, and Architecture of Control
-- Ch. 6 The Scripture Engine — How Ancient Stories Became Operating Instructions
-- Ch. 7 The Prophecy Engine — When the Map Becomes the Territory
-
-**Part Three — The Machine**
-- Ch. 8 The Policing Empire — How Ancient Patterns Run Modern States
-- Ch. 9 Money Is a Container — The Energy System That Keeps It All Running
-- Ch. 10 Erase All Debt — The Reset the System Was Designed to Prevent
-
-**Part Four — The Mirror**
-- Ch. 11 The Stories They Told Us — How Pop Culture Shows the System to Itself
-
-**Part Five — The Exit**
-- Ch. 12 The Weld — Reuniting Mind and Heart
-
-## Files
-
-- [`THE_HITCHHIKERS_GUIDE_TO_THE_HOMO_SAPIEN.md`](./THE_HITCHHIKERS_GUIDE_TO_THE_HOMO_SAPIEN.md) — Markdown version (readable on GitHub)
-- [`THE_HITCHHIKERS_GUIDE_TO_THE_HOMO_SAPIEN.docx`](./THE_HITCHHIKERS_GUIDE_TO_THE_HOMO_SAPIEN.docx) — Original Word manuscript
+Copyright © 2026 Ammon M. Covino. All rights reserved.
 
 ---
 
-© Ammon M. Covino. All rights reserved.
+Book One of a pair. The companion volume is [*The Mitochondrial Self*](https://github.com/ammoncovino/the-mitochondrial-self).
+
+This one works from the outside in, through the systems built around a person: language, ritual, architecture, scripture, prophecy, captured institutions, money, and debt. The other works from the inside out, through the biology that makes a person possible. The case only closes when both are in hand.
+
+---
+
+## Versions
+
+| Folder | What it is | Status |
+|---|---|---|
+| [`version-2/`](./version-2/) | **Current manuscript.** 41,255 words across 21 chaptered files, each section in its own Markdown file with numbered source notes. | Active — all editing happens here |
+| [`version-1/`](./version-1/) | Original manuscript as first published to this repo (single Word document plus Markdown copy, with its original README). | Archived — preserved unchanged for the record |
+
+Start reading at [`version-2/01_00_FRONT_MATTER.md`](./version-2/01_00_FRONT_MATTER.md), or see the full table of contents in [`version-2/README.md`](./version-2/README.md).
+
+## On sources
+
+Every checkable claim in this book carries a numbered note (see [`version-2/19_NOTES.md`](./version-2/19_NOTES.md)). The notes state whether a claim rests on **established evidence**, on the **author's own synthesis**, or on a position that remains **genuinely disputed**.
+
+## Working rules
+
+- Chapters are edited one file at a time. Nothing else is touched in the same pass.
+- Version 1 is never modified. It is the historical record.
+- Standing rule: lists take commas, not periods. No em dashes anywhere.
+- Standing rule: no global find-and-replace across the whole book.
