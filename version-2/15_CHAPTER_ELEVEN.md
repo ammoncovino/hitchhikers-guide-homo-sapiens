@@ -76,7 +76,7 @@ Which surfaces the question the whole argument turns on, and it is not economic.
 
 > You can only sleep in one house at a time. You can only drive one car at a time. There is a number of pairs of shoes past which the additional pair is not a possession, it is a data point. So the question is never whether someone is permitted to have more. It is what portion of the total has to stop moving in order for the counting to continue.
 
-The ancient version understood this and built the answer into the calendar, and the reason it was set on a fixed schedule rather than left to judgement is that no creditor has ever volunteered. The horn sounded because it was the fiftieth year, not because anyone had been persuaded.
+The ancient version understood this and built the answer into the calendar, and the reason it was set on a fixed schedule rather than left to judgment is that no creditor has ever volunteered. The horn sounded because it was the fiftieth year, not because anyone had been persuaded.
 
 > The Jubilee was never really about money. It was about refusing to let any single arrangement, financial or moral, become permanent enough to outlive its original purpose.
 
