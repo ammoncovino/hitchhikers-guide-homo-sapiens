@@ -1,4 +1,4 @@
-# The Hitchhiker's Guide to the Homo Sapien
+# The Hitchhiker's Guide to the Homo Sapiens
 
 *The Operating Manual Nobody Gave You*
 
