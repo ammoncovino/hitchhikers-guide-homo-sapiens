@@ -52,7 +52,7 @@ Counts vary because reports use different units. A base may denote a persistent 
 
 **13.  Chapter Eight: Iraq and the euro**
 
-Under the United Nations Oil-for-Food Programme, Iraq shifted the programme’s accounting and letters of credit from dollars to euros in November 2000. The invasion began 20 March 2003. The Iraq Survey Group later found no stockpiles corresponding to the principal prewar claims. These facts establish the chronology; they do not establish that the currency decision caused the invasion. UN Office of the Iraq Programme, Weekly Update 11–17 November 2000; Charles Duelfer, Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, 30 September 2004. SEQUENCE ESTABLISHED; CAUSATION NOT ESTABLISHED.
+Under the United Nations Oil-for-Food Programme, Iraq shifted the program’s accounting and letters of credit from dollars to euros in November 2000. The invasion began 20 March 2003. The Iraq Survey Group later found no stockpiles corresponding to the principal prewar claims. These facts establish the chronology; they do not establish that the currency decision caused the invasion. UN Office of the Iraq Programme, Weekly Update 11–17 November 2000; Charles Duelfer, Comprehensive Report of the Special Advisor to the DCI on Iraq’s WMD, 30 September 2004. SEQUENCE ESTABLISHED; CAUSATION NOT ESTABLISHED.
 
 **14.  Chapter Eight: the dollar channel**
 
