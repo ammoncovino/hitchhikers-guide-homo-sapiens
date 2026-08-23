@@ -15,7 +15,7 @@ Author: Ammon M. Covino.
 | `THE_MITOCHONDRIAL_SELF_v2.docx` | Book Two. Not yet revised to match Book One's standard. |
 | earlier versions v1–v7 | Keep. Do not delete. Reference only. |
 
-Book One: ~42,000 words, 14 chapters, 25 endnotes, 85 index entries.
+Book One: ~42,000 words, 14 chapters, 25 endnotes, 79 index entries.
 
 ---
 
