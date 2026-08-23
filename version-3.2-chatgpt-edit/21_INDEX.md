@@ -2,175 +2,163 @@
 
 References are to chapter, since the book is built to be read in any format. Page numbers can be substituted once it is set in a fixed layout.
 
-Abraham and Isaac, sacrifice pivot , 6
+Abraham and Isaac, sacrifice pivot, 6
 
-Alpha-Omega inversion , 3, 9, 13
+Alpha, the missing human, 1
 
-Alpha, the missing human , 1
+Alpha-Omega inversion, 3, 7, 14
 
-Carpe diem, and the third question , 1
+amargi (Sumerian, debt cancellation), 12
 
-Empty room, the , 1
+Arc, the, 2, 4, 13, 14
 
-Natural selection, as the nearest answer , 1
+Arena, as horizontal grievance, 13
 
-Pondering, and the need for blank time , 1
+Asimov, Isaac, and the Three Laws, 13
 
-amargi (Sumerian, debt cancellation) , 11
+Atheos, as category rather than charge, Prologue
 
-Arc, the , 2, 4, 6, 7, 8
+Babylon, as category, 9
 
-Arena, as horizontal grievance , 12
+Bases, overseas military, 9
 
-Asimov, Isaac, and the Three Laws , 12
+Bolt, the, 2, 5, 6, 10, 11
 
-Atheos, as category rather than charge , Prologue
+Book of Mormon, historicity caveat, 10
 
-Babylon, as category , 8
+Bread and circuses, 9, 13
 
-Bases, overseas military , 8
+Brewster’s Millions, 13
 
-Bolt, the , 2, 5, 6, 9, 10
+Capitol, living in the, 4, 13
 
-Book of Mormon, historicity caveat , 9
+Collateral damage, 1, 3, 13
 
-Bread and circuses , 8, 12
+Compression, of words and meaning, 3
 
-Brewster’s Millions , 12
+Confirmation bias (Wason, Nickerson), 10
 
-Capitol, living in the , 4, 12
+Constantine, and the Praetorian Guard, 10
 
-Compression, of words and meaning , 3
+Container, and what passes through, 1
 
-Collateral damage , 3, 4
+Court jester, loss of the function, 13
 
-Confirmation bias (Wason, Nickerson) , 9
+Cross, the sign of the, 5
 
-Constantine, and the Praetorian Guard , 9
+Crusade of 1096, believers and opportunists, 8
 
-Container and pass-through , 1
+Daimonion, Prologue
 
-Court jester, loss of the function , 12
+Debt, as valve, 11
 
-Cross, the sign of the , 5
+Debt, moral and spiritual, 12
 
-Crusade of 1096, believers and opportunists , 7
+Delphi, oracle at, Prologue
 
-Daimonion , Prologue
+Empty room, the, 1
 
-Debt, as valve , 10
+Flip, the, 2, 6, 9
 
-Debt, moral and spiritual , 11
+Gadianton robbers, 10
 
-Delphi, oracle at , Prologue
+God of the gaps (Drummond, Coulson), Prologue
 
-Drones, and the removal of refusal , 12
+Gospel, from gōd-spell, 3
 
-Entropy, and why circulation must return , 10
+Heuristics, 1
 
-Flip, the , 2, 6, 8
+Hunger Games, 4, 13
 
-Gadianton robbers , 9
+I, Robot, 13
 
-God of the gaps (Drummond, Coulson) , Prologue
+Iraq, euro conversion and invasion, 9
 
-Gospel, from gōd-spell , 3
+Janissary corps, 10
 
-Heuristics , 1, 7
+Jesus, red words as inversion, 7
 
-Hunger Games , 4, 12
+Joseph in Egypt, as capture template, 6
 
-I, Robot , 12
+Jubilee, 12
 
-Iraq, euro conversion and invasion , 8
+Loki Law, 9
 
-Janissary corps , 9
+London Debt Agreement, 1953, 12
 
-Jesus, red words as inversion , 6
+Masonic and LDS penalty gestures, 5
 
-Joseph in Egypt, as capture template , 6
+Masonic lodge, architecture of, 5
 
-Jubilee , 11
+Matrix, The, 13
 
-Legion, and the Gerasene account , 6
+Minab school strike, 4, 9
 
-Loki Law , 8
+Mirror, mirror, and the oracle, Prologue
 
-London Debt Agreement, 1953 , 11
+Mitochondria, and the three centers, Prologue, 14
 
-Masonic lodge, architecture of , 5
+Money, as transport layer, 11
 
-Masonic and LDS penalty gestures , 5
+Monkeys, the Three, 3
 
-Matrix, The , 12
+Musashi, Miyamoto, 2
 
-Minab school strike , 4, 8
+Natural selection, as the nearest answer, 1
 
-Mirror, mirror, and the oracle , Prologue
+Newspeak, 3
 
-Mitochondria, and the three centers , Prologue, 13
+Noah, and the authority to reset, 6
 
-Money, as transport layer , 10
+Oath, as Bolt, 2, 5, 10
 
-Monkeys, the Three , 3
+Petrodollar, and what actually held it, 9
 
-Musashi, Miyamoto , 2
+Pondering, and the need for blank time, 1
 
-Newspeak , 3
+Praetorian Guard, 10, 13
 
-Noah, and the authority to reset , 6
+Prophecy, self-fulfilling, 8
 
-Oath, as Bolt , 2, 5, 9
+Render unto Caesar, 7
 
-Pascal’s wager, as paradox Bolt , 2
+Rome, correlated to the United States, 9
 
-Petrodollar, and what actually held it , 8
+Round Table, and the shape of power, 5
 
-Praetorian Guard , 8, 9
+Ruiz, Don Miguel, the first agreement, 1, 3
 
-Prophecy, self-fulfilling , 7
+Second mile, the, 7
 
-Render unto Caesar , 6
+Secret combinations, 10
 
-Rome, correlated to the United States , 8
+Sēmeion (Greek: sign, symptom), Prologue
 
-Round Table, and the shape of power , 5
+Stake, wooden, as document, 13
 
-Ruiz, Don Miguel, the first agreement , 1, 3
+Star Wars, 13
 
-Second mile, the , 6
+Steward, the, 3
 
-Secret combinations , 9
+Sunk cost, 2, 10
 
-Sēmeion (Greek: sign, symptom) , Prologue
+Tomahawk, and the triple tap, 4
 
-Shmita, seven-year release , 11
+Trinity, structural reading of, 5
 
-Star Wars , 12
+Turn the other cheek, 7
 
-Steward, the , 3
+Vampires, as office rather than person, 13
 
-Stake, wooden, as document , 12
+Venezuela, and the closed channel, 11
 
-Sunk cost , 2, 9
+Watts, Alan (spotlight, floodlight, ignore-ance), 1
 
-Tomahawk, and the triple tap , 4
+Weld, the, 5, 14
 
-Trinity, structural reading of , 5
+Wizard of Oz, and redaction, 13
 
-Turn the other cheek , 6
-
-Vampires, as office rather than person , 12
-
-Venezuela, and the closed channel , 10
-
-Watts, Alan (spotlight, floodlight, ignore-ance) , 1
-
-Weld, the , 5, 13
-
-Wizard of Oz, and redaction , 12
-
-Women, and the transmission of the map , 7
+Women, and the transmission of the map, 8
 
 ### You were never the one in charge.
 
